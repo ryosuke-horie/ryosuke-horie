@@ -14,6 +14,8 @@
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryosuke-horie)](https://github.com/ryosuke-horie/github-profile-trophy)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryosuke-horie&count_private=true&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosuke-horie&hide=css)](https://github.com/anuraghazra/github-readme-stats)
