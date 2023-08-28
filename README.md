@@ -47,3 +47,6 @@ Last Updated on 8/28/2023, 12:31:27 AM</p>
   src="https://github.com/ryosuke-horie/ryosuke-horie/blob/output/images/stat.svg"
   alt="Alternative Text"
 />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
