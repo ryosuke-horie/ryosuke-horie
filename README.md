@@ -4,7 +4,6 @@
 <!-- snakegame SVG -->
 ![snake svg](https://github.com/ryosuke-horie/ryosuke-horie/blob/output/github-contribution-grid-snake.svg)
 
-
 <p align="left">
   <a href="https://github.com/ryosuke-horie/ryosuke-horie/">
     <img src="https://komarev.com/ghpvc/?username=ryosuke-horie" alt="ryosuke-horie" />
@@ -40,6 +39,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryosuke-horie&" alt="ryosuke-horie" /></p>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/WM51ZN2" target="_blank" rel="noopener noreferrer"><img alt="WM51ZN2のLAPRASでのスコアは次の通りです: エンジニアリング: 3.48 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.11 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.48&b=3.43&i=3.11&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+<p ><a href="https://lapras.com/public/WM51ZN2" target="_blank" rel="noopener noreferrer"><img alt="WM51ZN2のLAPRASでのスコアは次の通りです: エンジニアリング: 3.48 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.11 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.48&b=3.43&i=3.11&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>
 Last Updated on 8/28/2023, 12:31:27 AM</p>
 <!--END_SECTION:lapras-card-->
+
+<img
+  src="https://github.com/ryosuke-horie/ryosuke-horie/blob/output/images/stat.svg"
+  alt="Alternative Text"
+/>
