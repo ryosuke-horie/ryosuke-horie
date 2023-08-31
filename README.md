@@ -105,6 +105,12 @@
   </a>
 </p>
 
+<h3 align="left">Certifications:</h3>
+<p align="left">
+    <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/CLF.jpg" alt="aws" width="40" height="40"/>
+    <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/SAA.jpg" alt="aws" width="40" height="40"/>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryosuke-horie&show_icons=true&locale=en&layout=compact&hide=javascript,css,html,scss,CMake" alt="ryosuke-horie" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryosuke-horie&show_icons=true&locale=en" alt="ryosuke-horie" /></p>
