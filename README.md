@@ -110,24 +110,25 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <!-- Vercel -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Vercel.png" alt="aws" width="40" height="40"/>
+  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Vercel.png" alt="Vercel" width="40" height="40"/>
 </p>
 
 <h3 align="left">DB:</h3>
-  <p align="left">
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/MySQL.png" alt="mysql" width="40" height="40"/>
-    </a>
-    <!-- MariaDB -->
-    <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-    </a>
-    <!-- postgres -->
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    </a>
-  </p>
+<p align="left">
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/MySQL.png" alt="mysql" width="40" height="40"/>
+  </a>
+  <!-- MariaDB -->
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+  </a>
+  <!-- postgres -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+</p>
+
 <h3 align="left">Tools:</h3>
 <p align="left">
   <!-- Docker -->
