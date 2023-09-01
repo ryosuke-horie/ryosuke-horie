@@ -45,7 +45,7 @@
     </a>
     <!-- Javascript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ javascript-original.svg" alt="javascript" width="40" height="40"/>
+      <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Javascript.png" alt="javascript" width="40" height="40"/>
     </a>
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -72,11 +72,11 @@
     </a>
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer  ">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original. svg" alt="python" width="40" height="40"/>
+      <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Python.jpg" alt="python" width="40" height="40"/>
     </a>
     <!-- Laravel -->
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-   wordmark.svg" alt="laravel" width="40" height="40"/>
+      <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Laravel.png" alt="laravel" width="40" height="40"/>
     </a>
     <!-- Nestjs -->
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
@@ -102,7 +102,7 @@
   <p align="left">
     <!-- MySQL -->
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original- wordmark.svg" alt="mysql" width="40" height="40"/>
+      <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/MySQL.png" alt="mysql" width="40" height="40"/>
     </a>
     <!-- MariaDB -->
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
@@ -148,7 +148,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryosuke-horie&" alt="ryosuke-horie" /></p>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/WM51ZN2" target="_blank" rel="noopener noreferrer"><img alt="WM51ZN2のLAPRASでのスコアは次の通りです: エンジニアリング: 3.51 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.11 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.51&b=3.43&i=3.11&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+<p ><a href="https://lapras.com/public/WM51ZN2" target="_blank" rel="noopener noreferrer"><img alt="WM51ZN2のLAPRASでのスコアは次の通りです: エンジニアリング: 3.51 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.11 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.51&b=3.43&i=3.11&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>
 Last Updated on 9/1/2023, 12:33:24 AM</p>
 <!--END_SECTION:lapras-card-->
 
@@ -160,68 +160,68 @@ Last Updated on 9/1/2023, 12:33:24 AM</p>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2013%20mins-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+ >
 > 🏆 568 Contributions in the Year 2023
- > 
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 56 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 56 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                509 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
-🌆 Daytime                548 commits         ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-🌃 Evening                966 commits         ███████████░░░░░░░░░░░░░░   43.85 % 
-🌙 Night                  180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+🌞 Morning                509 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 %
+🌆 Daytime                548 commits         ██████░░░░░░░░░░░░░░░░░░░   24.88 %
+🌃 Evening                966 commits         ███████████░░░░░░░░░░░░░░   43.85 %
+🌙 Night                  180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Tuesday                  346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Wednesday                285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Saturday                 319 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Sunday                   334 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Monday                   280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Tuesday                  346 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
+Wednesday                285 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 %
+Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Friday                   341 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
+Saturday                 319 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 %
+Sunday                   334 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Tokyo
 
-💬 Programming Languages: 
-Other                    21 hrs 9 mins       ████████████░░░░░░░░░░░░░   46.80 % 
-Markdown                 11 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-TypeScript               3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-PHP                      3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-JavaScript               2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+💬 Programming Languages:
+Other                    21 hrs 9 mins       ████████████░░░░░░░░░░░░░   46.80 %
+Markdown                 11 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   25.35 %
+TypeScript               3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+PHP                      3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+JavaScript               2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
 
-🔥 Editors: 
-Chrome                   21 hrs 8 mins       ████████████░░░░░░░░░░░░░   46.76 % 
-VS Code                  15 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   33.57 % 
-Obsidian                 8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+🔥 Editors:
+Chrome                   21 hrs 8 mins       ████████████░░░░░░░░░░░░░   46.76 %
+VS Code                  15 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   33.57 %
+Obsidian                 8 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   19.67 %
 
-💻 Operating System: 
-Windows                  45 hrs 13 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  45 hrs 13 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               22 repos            ███████████░░░░░░░░░░░░░░   43.14 % 
-JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+TypeScript               22 repos            ███████████░░░░░░░░░░░░░░   43.14 %
+JavaScript               12 repos            ██████░░░░░░░░░░░░░░░░░░░   23.53 %
+Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 %
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 
