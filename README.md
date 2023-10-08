@@ -199,7 +199,7 @@ Last Updated on 10/8/2023, 12:34:21 AM</p>
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2038%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -272,5 +272,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ryosuke-horie/ryosuke-horie/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2023 18:35:55 UTC
+ Last Updated on 08/10/2023 18:36:03 UTC
 <!--END_SECTION:waka-->
