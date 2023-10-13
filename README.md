@@ -180,6 +180,8 @@
     <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/CLF.jpg" alt="CLF" width="40" height="40"/>
     <!-- SAA -->
     <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/SAA.jpg" alt="SAA" width="40" height="40"/>
+    <!-- SOA -->
+    <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/SOA.jpg" alt="SOA" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryosuke-horie&show_icons=true&locale=en&layout=compact&hide=javascript,css,html,scss,CMake" alt="ryosuke-horie" /></p>
