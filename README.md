@@ -201,7 +201,7 @@ Last Updated on 12/2/2023, 12:32:48 AM</p>
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-815%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -273,5 +273,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ryosuke-horie/ryosuke-horie/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2023 18:38:28 UTC
+ Last Updated on 02/12/2023 18:36:42 UTC
 <!--END_SECTION:waka-->
