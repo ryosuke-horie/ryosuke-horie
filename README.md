@@ -201,7 +201,7 @@ Last Updated on 12/15/2023, 12:34:42 AM</p>
 />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-884%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -242,13 +242,13 @@ Sunday                   438 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Other                    38 hrs 37 mins      █████████████████████████   100.00 % 
+Other                    37 hrs 12 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   38 hrs 37 mins      █████████████████████████   100.00 % 
+Chrome                   37 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  38 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -268,5 +268,5 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ryosuke-horie/ryosuke-horie/main/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2023 18:39:11 UTC
+ Last Updated on 15/12/2023 18:38:31 UTC
 <!--END_SECTION:waka-->
