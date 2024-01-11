@@ -184,18 +184,7 @@
     <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/SOA.jpg" alt="SOA" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryosuke-horie&show_icons=true&locale=en&layout=compact&hide=javascript,css,html,scss,CMake" alt="ryosuke-horie" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryosuke-horie&show_icons=true&locale=en" alt="ryosuke-horie" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryosuke-horie&" alt="ryosuke-horie" /></p>
-
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/WM51ZN2" target="_blank" rel="noopener noreferrer"><img alt="WM51ZN2のLAPRASでのスコアは次の通りです: エンジニアリング: 3.58 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.4 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=3.43&i=3.4&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
 Last Updated on 1/11/2024, 12:34:44 AM</p>
 <!--END_SECTION:lapras-card-->
-
-<img
-  src="https://github.com/ryosuke-horie/ryosuke-horie/blob/output/images/stat.svg"
-  alt="Alternative Text"
-/>
