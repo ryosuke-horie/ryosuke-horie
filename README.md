@@ -140,16 +140,6 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <!-- A5M2 -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/A5M2.jpg" alt="A5M2" width="40" height="40"/>
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
   <!-- Github -->
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Github.png" alt="Github" width="40" height="40"/>
   <!-- Gitlab -->
@@ -160,14 +150,10 @@
   <!-- Backlog -->
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Backlog.jpg" alt="Backlog" width="40" height="40"/>
   <!-- ドキュメント系・その他 -->
-  <!-- Word -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/word.jpg" alt="Word" width="40" height="40"/>
   <!-- Excel -->
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Excel.jpg" alt="Excel" width="40" height="40"/>
   <!-- Notion -->
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Notion.png" alt="Notion" width="40" height="40"/>
-  <!-- Box -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Box.png" alt="Box" width="40" height="40"/>
   <!-- Slack -->
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Slack.png" alt="Slack" width="40" height="40"/>
   <!-- GA4 -->
