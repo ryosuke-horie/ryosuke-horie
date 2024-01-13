@@ -51,8 +51,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <!-- JQuery -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/JQuery.png" alt="JQuery" width="40" height="40"/>
   <!-- Reactjs -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -77,12 +75,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer  ">
     <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Python.jpg" alt="python" width="40" height="40"/>
   </a>
-  <!-- GoogleAppsScript -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/GAS.png" alt="GoogleAppsScript" width="40" height="40"/>
-  <!-- Smarty -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Smarty.jpg" alt="Smarty" width="40" height="40"/>
-  <!-- ZendFramework -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Zend.png" alt="ZendFramework" width="40" height="40"/>
   <!-- CakePHP -->
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Cakephp.jpg" alt="CakePHP" width="40" height="40"/>
   <!-- Laravel -->
@@ -117,22 +109,6 @@
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Vercel.png" alt="Vercel" width="40" height="40"/>
 </p>
 
-<h3 align="left">DB:</h3>
-<p align="left">
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/MySQL.png" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- MariaDB -->
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
-  </a>
-  <!-- postgres -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-</p>
-
 <h3 align="left">Tools:</h3>
 <p align="left">
   <!-- 開発向け -->
@@ -145,13 +121,9 @@
   <!-- Gitlab -->
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Gitlab.png" alt="Gitlab" width="40" height="40"/>
   <!-- タスク管理系 -->
-  <!-- Trello -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Trello.png" alt="Trello" width="40" height="40"/>
   <!-- Backlog -->
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Backlog.jpg" alt="Backlog" width="40" height="40"/>
   <!-- ドキュメント系・その他 -->
-  <!-- Excel -->
-  <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Excel.jpg" alt="Excel" width="40" height="40"/>
   <!-- Notion -->
   <img src="https://github.com/ryosuke-horie/ryosuke-horie/blob/main/assets/Notion.png" alt="Notion" width="40" height="40"/>
   <!-- Slack -->
@@ -171,6 +143,6 @@
 </p>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/WM51ZN2" target="_blank" rel="noopener noreferrer"><img alt="WM51ZN2のLAPRASでのスコアは次の通りです: エンジニアリング: 3.58 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.4 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=3.43&i=3.4&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+<p ><a href="https://lapras.com/public/WM51ZN2" target="_blank" rel="noopener noreferrer"><img alt="WM51ZN2のLAPRASでのスコアは次の通りです: エンジニアリング: 3.58 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.4 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.58&b=3.43&i=3.4&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>
 Last Updated on 1/13/2024, 12:34:17 AM</p>
 <!--END_SECTION:lapras-card-->
