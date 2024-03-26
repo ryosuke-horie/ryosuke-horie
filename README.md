@@ -143,6 +143,6 @@
 </p>
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/WM51ZN2" target="_blank" rel="noopener noreferrer"><img alt="WM51ZN2のLAPRASでのスコアは次の通りです: エンジニアリング: 3.61 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.44 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.61&b=3.43&i=3.44&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 3/25/2024, 12:34:02 AM</p>
+<p ><a href="https://lapras.com/public/WM51ZN2" target="_blank" rel="noopener noreferrer"><img alt="WM51ZN2のLAPRASでのスコアは次の通りです: エンジニアリング: 3.62 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.44 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.62&b=3.43&i=3.44&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 3/26/2024, 12:32:17 AM</p>
 <!--END_SECTION:lapras-card-->
