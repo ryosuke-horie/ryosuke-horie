@@ -9,8 +9,7 @@
 
 <h2>About</h2>
 <p align="left">
-  Webエンジニアとして働いています。Laravel, Vue, AWSを中心に開発。
-  個人開発もやっています。
+  Webエンジニアとして働いています。PHP, TypeScipt, AWSがメインスタック。
 </p>
 
 <h2>Link</h2>
