@@ -10,14 +10,13 @@ PHP,TypeScript,AWSをよく利用しているサーバーサイドエンジニ�
 ### 直近でやっていること
 
 - AWS CDKを利用したIaC化とリプレイス
-- Cloudflare Zero TrustとAWSの連携
-- Laravel製APIとNext.js製UIの開発（個人）
+- CloudflareとAWSを使用したクラウドインフラ設計・構築
+- Laravel, Next.jsを利用したAPI設計・UI実装
 
 ### 今興味がある技術など
 
 - SRE
 - Cloudflare
-- GitHub Project
 - Go
 
 ## Link
