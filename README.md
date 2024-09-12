@@ -5,25 +5,32 @@
 
 ## About
 
-PHP,TypeScript,AWSをよく利用しているサーバーサイドエンジニアです。
+サーバーサイド・インフラエンジニア。
+最近よく使っている技術的なキーワード
+- AWS
+- CDK
+- Cloudflare
+- Terraform
+- TypeScript
+- PHP
 
-### 直近でやっていること
+### 最近やっていること
 
-- AWS CDKを利用したIaC化とリプレイス
-- CloudflareとAWSを使用したクラウドインフラ設計・構築
-- Laravel, Next.jsを利用したAPI設計・UI実装
+- Rust勉強中 ... Clapを利用したCLIツールを作るのが目標。
+- Cloudflareを採用した個人開発
+- AWS CDKやTerrafromを利用したインフラのIaC化
 
-### 今興味がある技術など
+### 今興味があること
 
 - SRE
-- Cloudflare
-- Go
+- Rust
+
 
 ## Link
 
-- [Qiita](https://qiita.com/ryosuke-horie) - ゆるめの技術ブログ
-- [Zenn](https://zenn.dev/ryosuke_horie) - ちょっと頑張った技術ブログ
-- [credly](https://www.credly.com/users/ryosuke-horie.4573376d) - AWS認定試験のバッジ
+- [Qiita](https://qiita.com/ryosuke-horie)
+- [Zenn](https://zenn.dev/ryosuke_horie)
+- [credly](https://www.credly.com/users/ryosuke-horie.4573376d)
 
 ## SNS
 
