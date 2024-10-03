@@ -16,8 +16,7 @@
 
 ### 最近やっていること
 
-- Rust勉強中 ... Clapを利用したCLIツールを作るのが目標。
-- Cloudflareを採用した個人開発
+- 個人開発(Next.js, Laravel, Cloudflare, AWS, Postgres)
 - AWS CDKやTerrafromを利用したインフラのIaC化
 
 ### 今興味があること
