@@ -7,17 +7,16 @@
 
 サーバーサイド・インフラエンジニア。
 最近よく使っている技術
-- AWS
-- CDK
+- AWS (CDK)
 - Cloudflare
-- Terraform
-- TypeScript
-- PHP
+- TypeScript ... Next.js, vue
+- PHP ... Laravel
 
 ### 最近やっていること
 
-- 個人開発(Next.js, Laravel, Cloudflare, AWS, Postgres)
-- AWS CDKやTerrafromを利用したインフラのIaC化
+- AWS CDKを利用したインフラのIaC化
+- Next.js製のプロトタイプ構築(基本検討・要件定義用)
+- 格闘技道場向け会員管理システムの企画・開発・運用(個人開発)
 
 ### 勉強中...
 
