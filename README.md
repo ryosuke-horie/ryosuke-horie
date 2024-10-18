@@ -19,10 +19,10 @@
 - 個人開発(Next.js, Laravel, Cloudflare, AWS, Postgres)
 - AWS CDKやTerrafromを利用したインフラのIaC化
 
-### 今興味があること
+### 勉強中...
 
 - SRE
-- Rust
+- Go
 
 
 ## Link
