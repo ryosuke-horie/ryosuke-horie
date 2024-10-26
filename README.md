@@ -1,37 +1,34 @@
-# Profile
+# Ryosuke Horie
 
-<!-- GitBlockを利用 -->
+![Profile Views](https://komarev.com/ghpvc/?username=ryosuke-horie&style=flat-square)
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
-## About
+## About Me
 
-サーバーサイド・インフラエンジニア。
-最近よく使っている技術
-- AWS (CDK)
-- Cloudflare
-- TypeScript ... Next.js, vue
-- PHP ... Laravel
+### **最近使っている技術:**
 
-### 最近やっていること
+| 分野           | 技術スタック                        |
+|----------------|------------------------------------|
+| **インフラ**   | AWS (CDKを用いたIaC), Cloudflare   |
+| **フロントエンド** | TypeScript (Next.js, Vue)         |
+| **バックエンド**   | PHP (Laravel), TypeScript(Hono)                     |
 
-- AWS CDKを利用したインフラのIaC化
-- Next.js製のプロトタイプ構築(基本検討・要件定義用)
-- 格闘技道場向け会員管理システムの企画・開発・運用(個人開発)
+### Current Projects
+- **AWS CDK** を使ったインフラのIaC化
+- **Next.js** でのプロトタイプ構築（検討・要件定義用）
+- **会員管理システム**（格闘技道場向け、個人開発）
 
-### 勉強中...
+### Learning
+- **Go**
+- **Google Cloud**
+- **Terraform**
 
-- SRE
-- Go
+## Find Me Online
 
-
-## Link
-
-- [Qiita](https://qiita.com/ryosuke-horie)
-- [Zenn](https://zenn.dev/ryosuke_horie)
-- [credly](https://www.credly.com/users/ryosuke-horie.4573376d)
-
-## SNS
-
-- [Twitter](https://twitter.com/ryosuke_314_)
-
-[![ryosuke-horie](https://komarev.com/ghpvc/?username=ryosuke-horie)](https://github.com/ryosuke-horie/ryosuke-horie/)
+<p>
+  <a href="https://qiita.com/ryosuke-horie" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"></a>
+  <a href="https://zenn.dev/ryosuke_horie" target="_blank"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"></a>
+  <a href="https://www.credly.com/users/ryosuke-horie.4573376d" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
+  <a href="https://twitter.com/ryosuke_314_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
