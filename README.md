@@ -65,5 +65,5 @@
   <a href="https://zenn.dev/ryosuke_horie" target="_blank"><img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"></a>
   <a href="https://www.credly.com/users/ryosuke-horie.4573376d" target="_blank"><img src="https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
   <a href="https://twitter.com/ryosuke_314_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://sizu.me/ryosuke-horie" target="_blank"><img src="https://img.shields.io/badge/しずかなインターネット-1DA1F2?style=for-the-badge&logoColor=white" alt="しずかなインターネット"></a>
+  <a href="https://sizu.me/ryosuke-horie" target="_blank"><img src="https://img.shields.io/badge/しずかなインターネット-FFFFFF?style=for-the-badge&labelColor=FFFFFF&logoColor=black" alt="しずかなインターネット"></a>
 </p>
