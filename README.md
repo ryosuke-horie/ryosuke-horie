@@ -1,7 +1,5 @@
 # Ryosuke Horie
 
-![Profile Views](https://komarev.com/ghpvc/?username=ryosuke-horie&style=flat-square)
-
 ## Links
 
 <p>
