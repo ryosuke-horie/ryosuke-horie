@@ -1,5 +1,15 @@
 # Ryosuke Horie
 
+フルスタックエンジニアとしてSincereed株式会社に勤務しています。
+
+## 言語・ツール
+
+| カテゴリ | 技術 |
+|----------|------|
+| **インフラ / CI・CD** | GCP, AWS, Cloudflare, Terraform, AWS CDK(TypeScript), GitHub Actions, GitLab CI |
+| **バックエンド / DB** | PHP (Laravel, CakePHP, Zend Framework), TypeScript (Hono, Nest.js), Golang, PostgresQL, MariaDB |
+| **フロントエンド / デザイン** | TypeScript (Next.js, Vue.js), Figma |
+
 ## Links
 
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/ryosuke-horie)
