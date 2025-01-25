@@ -46,3 +46,28 @@
 - Ver1 <https://github.com/ryosuke-horie/blog>
 - Ver2 <https://github.com/ryosuke-horie/tech-blog-notion-cms>
 - Ver3 <https://github.com/ryosuke-horie/tech-blog-v3>
+
+#### 技術習得用サンプルアプリ
+
+##### Terraform✖️GCP✖️Golang✖️NextjsのTodoアプリ
+
+<https://github.com/ryosuke-horie/next-go-gcp-terraform-lab>
+
+##### pgvector PostgresQLでベクトル検索のサンプルツール
+
+<https://github.com/ryosuke-horie/pgvector-sample>
+
+- OpenAI Embedding APIでDB内のデータをベクトル化
+- 自然言語で類似度の高いデータを検索する仕組みの構築
+
+##### GitHub セルフホストランナー構築サンプル
+
+<https://github.com/ryosuke-horie/terraform-aws-github-runner-custom>
+
+- TerraformでAWS上にセルフホストランナーを構築するもの
+
+##### Golang製 Todoアプリ
+
+<https://github.com/ryosuke-horie/go_todo_app>
+
+- Golangの学習用リポジトリ
