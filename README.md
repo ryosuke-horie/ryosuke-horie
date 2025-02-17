@@ -12,8 +12,6 @@
 
 #### マイクロジム向け 入館管理システム
 
-![dojo-pass-logo](/picture/dojo-pass-logo.png)
-
 - 所属ジムHide`s Kickで運用している入館管理システム
 
 #### タイムテーブル予約受付フォーム
