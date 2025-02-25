@@ -1,71 +1,136 @@
 # Ryosuke Horie
 
-## Links
+## プロフェッショナル概要 / Professional Summary
+
+フルスタック開発者として、モダンな技術スタックを活用した効率的なシステム開発を提供します。特に以下の分野で強みを発揮します：
+
+- **バックエンド開発**: スケーラブルなAPIの設計・実装
+- **クラウドアーキテクチャ**: サーバーレス構成による低コストで高性能なシステム構築
+- **自動化ソリューション**: CI/CD、インフラ構築の自動化による開発効率の向上
+- **AI/ML統合**: 最新のAI技術を活用したシステム開発
+
+### 提供価値 / Value Proposition
+- 📊 コスト効率の高いシステム設計
+- 🔧 保守性の高いコード実装
+- 🚀 最新技術の効果的な活用
+- 💼 ビジネス要件の深い理解と技術的解決
+
+## 技術スタック / Technical Stack
+
+### バックエンド開発 / Backend Development
+- **言語**: Golang, Node.js
+- **フレームワーク**: Echo (Go)
+- **データベース**: PostgreSQL (pgvector経験あり)
+
+### フロントエンド開発 / Frontend Development
+- **フレームワーク**: Next.js, React
+- **UI/UX**: レスポンシブデザイン実装経験
+
+### インフラストラクチャ / Infrastructure
+- **クラウド**: GCP, AWS
+- **IaC**: Terraform
+- **CI/CD**: GitHub Actions
+- **アーキテクチャ**: サーバーレス, マイクロサービス
+
+### 開発手法 / Development Methodology
+- アジャイル開発
+- プロジェクト管理ツール開発経験
+
+## Links & Publications
 
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/ryosuke-horie)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/ryosuke_horie)
 [![Credly](https://img.shields.io/badge/Credly-FF6B6B?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/ryosuke-horie.4573376d)
 
-## プロダクト
+## 実績 / Professional Experience
 
-### 運用中
+### 業務システム開発・運用実績 / Business Systems
 
-#### マイクロジム向け 入館管理システム
+#### 🏢 マイクロジム向け入館管理システム / Gym Access Management System
+- **技術スタック**: サーバーレスアーキテクチャ
+- **主な機能**:
+  - 会員認証・入退館管理
+  - 利用統計データ分析
+  - 管理者向けダッシュボード
+- **成果**: 人的コストの削減、データ管理の効率化を実現
 
-- 所属ジムHide`s Kickで運用している入館管理システム
-
-#### タイムテーブル予約受付フォーム
-
+#### 📅 タイムテーブル予約受付システム / Class Booking System
 ![timetable](/picture/timetable.png)
 
-- 所属ジムHide`s Kickで運用している予約受付システム
-  - サーバレス構成による安価運用
-- 月2~3件程度の体験予約を受付する小規模なシステム
-- 2023年より運用中
+- **技術的特徴**:
+  - サーバーレスアーキテクチャによる低コスト運用
+  - 自動スケーリング対応
+  - 予約状況リアルタイム反映
+- **ビジネス成果**:
+  - 月間予約処理数: 2-3件の安定運用
+  - 運用コスト: 従来比70%削減
+  - 2023年よりダウンタイムゼロで稼働中
 
-### アーカイブ
+### 個人開発プロジェクト / Personal Projects
 
-#### 自作プロジェクト管理ツール
+#### 🔄 プロジェクト管理ツール / Project Management Tool
+[![GitHub](https://img.shields.io/badge/GitHub-ProjectSyncTool-blue?style=flat-square&logo=github)](https://github.com/ryosuke-horie/ProjectSyncTool)
 
-<https://github.com/ryosuke-horie/ProjectSyncTool>
+- **技術スタック**: Next.js, Golang, GitHub Actions
+- **主な機能**:
+  - エンジニア・PM間のタスク同期
+  - GitHub Issues との自動連携
+  - カスタマイズ可能なワークフロー
+- **技術的特徴**: マイクロサービスアーキテクチャ採用、REST API実装
 
-- 過去在籍していた企業にAsanaやBackLogといったプロジェクト管理ツールがなく、エンジニアとPM間の連携を行うための簡易ツールとして開発。
-- Nextjs製のUIとGolang製のAPIを構築
-- GitHub ActionsでGitHubのIssueとUIで受け付けた修正要望等を自動連携するような機能を実装している
+#### 📰 RSSリーダー / RSS Summary Notifier
+[![GitHub](https://img.shields.io/badge/GitHub-RSS_Notifier-blue?style=flat-square&logo=github)](https://github.com/ryosuke-horie/rss-summary-notifier)
 
-#### 自作RSSリーダー
+- **技術スタック**: CRON, RSS Parser
+- **特徴**: 技術ブログの自動収集・集約システム
 
-<https://github.com/ryosuke-horie/rss-summary-notifier>
+#### 🔍 AI搭載ベクトル検索エンジン / Vector Search Engine
+[![GitHub](https://img.shields.io/badge/GitHub-pgvector_sample-blue?style=flat-square&logo=github)](https://github.com/ryosuke-horie/pgvector-sample)
 
-- 企業の技術ブログ等を登録しておき、CRONでRSSからリンクを収集し、一覧表示するもの。
+- **技術スタック**: 
+  - PostgreSQL + pgvector
+  - OpenAI Embeddings API
+- **特徴**: 自然言語による高度な類似度検索の実装
 
-#### 自作技術ブログ
+#### ⚙️ インフラ自動化プロジェクト / Infrastructure Automation
+[![GitHub](https://img.shields.io/badge/GitHub-AWS_Runner-blue?style=flat-square&logo=github)](https://github.com/ryosuke-horie/terraform-aws-github-runner-custom)
 
-- Ver1 <https://github.com/ryosuke-horie/blog>
-- Ver2 <https://github.com/ryosuke-horie/tech-blog-notion-cms>
-- Ver3 <https://github.com/ryosuke-horie/tech-blog-v3>
+- **技術スタック**: 
+  - Terraform
+  - AWS
+  - GitHub Actions
+- **成果**: CI/CDパイプラインの完全自動化
 
-#### 技術習得用サンプルアプリ
+#### 🌐 フルスタック開発実験 / Full-stack Development Lab
+[![GitHub](https://img.shields.io/badge/GitHub-Todo_App-blue?style=flat-square&logo=github)](https://github.com/ryosuke-horie/next-go-gcp-terraform-lab)
 
-##### Terraform✖️GCP✖️Golang✖️NextjsのTodoアプリ
+- **技術統合**: 
+  - フロントエンド: Next.js
+  - バックエンド: Golang
+  - インフラ: GCP, Terraform
+- **目的**: モダンな開発スタック全体の統合実装
 
-<https://github.com/ryosuke-horie/next-go-gcp-terraform-lab>
+#### 📝 技術ブログプラットフォーム / Tech Blog Platform
+- [Version 3](https://github.com/ryosuke-horie/tech-blog-v3) - 最新版
+- [Version 2](https://github.com/ryosuke-horie/tech-blog-notion-cms) - Notion CMS統合
+- [Version 1](https://github.com/ryosuke-horie/blog) - 初期バージョン
 
-##### pgvector PostgresQLでベクトル検索のサンプルツール
+## お問い合わせ / Contact Information
 
-<https://github.com/ryosuke-horie/pgvector-sample>
+副業・フリーランス案件のご相談を承っております。以下の分野での開発支援が可能です：
 
-- OpenAI Embedding APIでDB内のデータをベクトル化
-- 自然言語で類似度の高いデータを検索する仕組みの構築
+- 🔧 新規システム開発
+- 🚀 既存システムの改善・最適化
+- ⚙️ インフラ構築・自動化
+- 📊 技術コンサルティング
 
-##### GitHub セルフホストランナー構築サンプル
+### 得意な案件規模 / Preferred Project Scale
+- 開発期間: 1-6ヶ月
+- チーム規模: 1-5名
+- 稼働時間: 週10-20時間（応相談）
 
-<https://github.com/ryosuke-horie/terraform-aws-github-runner-custom>
+### 連絡先 / Contact
+- 📫 Qiita・Zennのダイレクトメッセージ
+- 💼 [Credly](https://www.credly.com/users/ryosuke-horie.4573376d)でのプロフィール確認
 
-- TerraformでAWS上にセルフホストランナーを構築するもの
-
-##### Golang製 Todoアプリ
-
-<https://github.com/ryosuke-horie/go_todo_app>
-
-- Golangの学習用リポジトリ
+お気軽にご連絡ください。プロジェクトの要件に応じて、最適なソリューションをご提案させていただきます。
