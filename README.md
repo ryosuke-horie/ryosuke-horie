@@ -53,9 +53,6 @@
   <a href="https://github.com/ryosuke-horie/tech-blog-v3">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryosuke-horie&repo=tech-blog-v3&theme=gruvbox" />
   </a>
-  <a href="https://github.com/ryosuke-horie/yomimono">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryosuke-horie&repo=yomimono&theme=gruvbox" />
-  </a>
 </p>
 
 ## Links
