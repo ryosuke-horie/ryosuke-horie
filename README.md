@@ -35,14 +35,6 @@
 ![Devin](https://img.shields.io/badge/Devin-0066CC?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## Featured Projects
-
-<p align="left">
-  <a href="https://github.com/ryosuke-horie/tech-blog-v3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryosuke-horie&repo=tech-blog-v3&theme=gruvbox" />
-  </a>
-</p>
-
 ## Links
 
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/ryosuke-horie)
