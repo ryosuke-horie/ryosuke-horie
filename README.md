@@ -9,7 +9,6 @@
 ## GitHub Stats
 
 <p align="left">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ryosuke-horie&theme=gruvbox&show_icons=true" />
   <img alt="github contribution streak" height="150px" src="https://streak-stats.demolab.com?user=ryosuke-horie&theme=gruvbox" />
 </p>
 
