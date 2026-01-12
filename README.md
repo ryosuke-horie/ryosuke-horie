@@ -3,14 +3,6 @@
 ## About Me
 
 🔧 ソフトウェアエンジニア  
-📍 東京  
-🔭 現在はGoとTypeScriptを中心にWebサービス開発に取り組んでいます。AI活用に興味を持って取り組んでいます。
-
-## GitHub Stats
-
-<p align="left">
-  <img alt="github contribution streak" height="150px" src="https://streak-stats.demolab.com?user=ryosuke-horie&theme=gruvbox" />
-</p>
 
 ## Tech Stack
 
