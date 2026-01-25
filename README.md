@@ -9,5 +9,5 @@ Webエンジニア（6年目）
 
 ## Links
 
-[![Blog](https://img.shields.io/badge/個人ブログ-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.ryosuke-horie37.workers.dev/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ryosuke_314_)
+X: https://x.com/ryosuke_314_
+個人ブログ: https://blog.ryosuke-horie37.workers.dev/
